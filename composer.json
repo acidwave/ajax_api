@@ -1,0 +1,13 @@
+{
+    "name": "vendor/ajax-api",
+    "description": "Программа для чтения заказов из интернет-магазина с пейджингом.",
+    "authors": [
+        {
+            "name": "Timur Akmalov",
+            "email": "me@acidwave.ru"
+        }
+    ],
+    "require": {
+        "shopexpress/apiclient": "2.0.1"
+    }
+}
